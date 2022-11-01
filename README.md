@@ -36,7 +36,7 @@ $ python manage.py runserver
 
 ## Team ✨
 
-| <a href="https://rajaprerak.github.io" target="_blank">**Shivani Saraswat**</a> | <a href="https://varadbhogayata.github.io" target="_blank">**Somya Gupta**</a> | | <a href="https://varadbhogayata.github.io" target="_blank">**Priya Pachauri**</a> | 
+| <a href="https://shivani1706.github.io" target="_blank">**Shivani Saraswat**</a> | <a href="https://github.com/somya2406" target="_blank">**Somya Gupta**</a> | | <a href="https://github.com/Priyapac261" target="_blank">**Priya Pachauri**</a> | 
 | :---: |:---:|
 | [![Shivani saraswat](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    | [![Varad Bhogayata](https://github.com/varadbhogayata.png?size=100)](https://varadbhogayata.github.io) ||
 | <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a> | <a href="https://github.com/varadbhogayata" target="_blank">`github.com/varadbhogayata`</a> 
