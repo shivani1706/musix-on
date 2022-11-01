@@ -1,4 +1,4 @@
-# musix-on ( Django based music streaming website )
+# MUSIXON ( Django based music streaming website )
 ----
 
 ## Installation 📦
@@ -36,5 +36,5 @@ $ python manage.py runserver
 
 ## Team ✨
 
-| <a href="https://github.com/shivani1706" target="_blank">**Shivani Saraswat**</a> | <a href="https://github.com/somya2406" target="_blank">**Somya Gupta**</a> | | <a href="https://github.com/Priyapac261" target="_blank">**Priya Pachauri**</a> | 
+| <a href="https://github.com/shivani1706" target="_blank">**Shivani Saraswat**</a> | <a href="https://github.com/somya2406" target="_blank">**Somya Gupta**</a> |  <a href="https://github.com/Priyapac261" target="_blank">**Priya Pachauri**</a> | 
 
