@@ -41,5 +41,6 @@ $ python manage.py runserver
 
 
 ![Screenshot (929)](https://user-images.githubusercontent.com/77433607/230739758-dd8e97ef-538c-414a-8e4c-5417d2daaeaf.png)
-![Screenshot (931)](https://user-images.githubusercontent.com/77433![Screenshot (930)](https://user-images.githubusercontent.com/77433607/230739765-dd5d3729-84ed-4a15-b564-6f4e5a5e0f79.png)
-607/230739761-792faaea-b838-4d6c-af01-0978c016e893.png)
+
+![Screenshot (931)](https://user-images.githubusercontent.com/77433607/230739780-8cff5c1c-b03f-4df6-b527-3ad6fabd4df7.png)
+
